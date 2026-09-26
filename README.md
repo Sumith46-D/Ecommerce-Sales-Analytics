@@ -1,8 +1,8 @@
-# 📊 E-Commerce Sales Analytics 
+# 📊 E-Commerce Sales Analytics
 
 ## 📌 Project Overview
 
-This project is an end-to-end **E-Commerce Sales Analytics** solution developed using **SQL, Python, and Power BI**. The project demonstrates the complete data analytics lifecycle, starting from raw data import and SQL-based analysis to Python data cleaning, exploratory data analysis (EDA), and interactive dashboard development in Power BI.
+This project is an **E-Commerce Sales Analytics** solution developed using **SQL, Python, and Power BI**. The project demonstrates the complete data analytics lifecycle, starting from raw data import and SQL-based analysis to Python data cleaning, exploratory data analysis (EDA), and interactive dashboard development in Power BI.
 
 The objective is to analyze sales performance, customer behavior, and product performance to generate actionable business insights that support data-driven decision-making.
 
