@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analytics | End-to-End Data Analyst Project
+# 📊 E-Commerce Sales Analytics 
 
 ## 📌 Project Overview
 
