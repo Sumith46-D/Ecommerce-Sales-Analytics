@@ -422,16 +422,4 @@ Ecommerce-Sales-Analytics/
 
 ---
 
-# 👨‍💻 Author
 
-**Suji Prasanth**
-
-### Connect with me
-
-- LinkedIn: https://www.linkedin.com/in/suji-prasanth
-- GitHub: https://github.com/sujiprasanth
-- Portfolio: https://sujiprasanth.netlify.app/
-
----
-
-⭐ If you found this project useful, feel free to star the repository!
